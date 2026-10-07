@@ -1,0 +1,13 @@
+# Paceline Running
+
+> A responsive running-storefront frontend demo based on the supplied DCS Web Cluster design.
+
+## Pages
+
+- [Home](/): Featured collections, product categories, catalogue filters, and local shopping demo.
+- [About](/about): Paceline story, principles, timeline, Glasgow visit information, and founders.
+
+## Project notes
+
+- Product, catalogue, account, shopping bag, and newsletter actions are front-end demonstrations and do not connect to a backend.
+- The project setup and local development instructions are in [README.md](/README.md).
